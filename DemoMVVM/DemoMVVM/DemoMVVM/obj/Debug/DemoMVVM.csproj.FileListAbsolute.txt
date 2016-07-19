@@ -1,0 +1,13 @@
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.csprojResolveAssemblyReference.cache
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.Views.MainPage.xaml.g.cs
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\DemoMVVM.dll
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\DemoMVVM.pdb
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.dll
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.pdb
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.dll.mdb
+C:\Users\Hanhnd_unity\documents\visual studio 2015\Projects\DemoMVVM\DemoMVVM\DemoMVVM\bin\Debug\DemoMVVM.dll.mdb
